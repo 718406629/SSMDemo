@@ -6,9 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3673f1c-d893-43c4-bfcb-bd55347815b1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3673f1c-d893-43c4-bfcb-bd55347815b1" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path=".idea/" />
@@ -289,7 +287,7 @@
       <updated>1558103682888</updated>
       <workItem from="1558103684352" duration="7448000" />
       <workItem from="1558146393158" duration="17137000" />
-      <workItem from="1558178591047" duration="667000" />
+      <workItem from="1558178591047" duration="815000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1558178936076</created>
@@ -298,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1558178936077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1558179292181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1558179292181</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -334,7 +339,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25252000" />
+    <option name="totallyTimeSpent" value="25400000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
